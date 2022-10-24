@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="WaveSurvivor"
+run/main_scene="res://scenes/Stage.tscn"
 config/icon="res://icon.png"
 
 [gui]
